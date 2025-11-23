@@ -8,4 +8,4 @@ class ListSum:
         self.lst = lst
 
     def get_sum(self):
-        return sum(self.lst)
+        return self.lst_sum
