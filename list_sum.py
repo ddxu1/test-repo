@@ -6,6 +6,6 @@ class ListSum:
     
     def set_list(self, lst):
         self.lst = lst
-        
+
     def get_sum(self):
-        return self.lst_Sum
+        return sum(self.lst)
